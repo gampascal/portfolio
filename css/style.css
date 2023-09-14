@@ -1,0 +1,243 @@
+/*index styling starts here*/
+
+body{
+    
+    background: url("../images/bg1.png") no-repeat center center fixed;
+    background-size:cover;
+     font-family: 'Merriweather Sans', sans-serif;
+   
+}
+.navbar{
+    
+    padding: 50px;
+    background-color: transparent;
+    
+}
+.navbar .navbar-nav {
+    
+margin-left: 30%;
+}
+.navbar .navbar-nav  .nav-item a{
+    color:dimgray;
+    padding: 20px;;
+    background-color: ;
+    font-size: 20px;
+    font-weight: 1000;
+   
+    
+}.navbar .navbar-nav  .nav-item a:active{
+    color:#4169e1;
+    padding: 20px;
+    text-decoration: underline;
+    background-color: ;
+    font-size: 20px;
+    font-weight: 1000;
+    
+    
+}.navbar .navbar-nav  .nav-item a:hover{
+    color:dimgray;
+    padding: 20px;
+    text-decoration: none;
+    background-color: ;
+    font-size: 25px;
+    font-weight: 1000;
+    transition: 1000ms;
+   
+}
+.navbar button{
+    color:white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px ;
+    background-color:#4169e1 ;
+    font-size: 20px;
+    font-weight: 1000;
+   
+    
+}
+.col-4  {
+   padding:2%; 
+   
+}.col-4  h5{
+   margin-top: 40%; 
+   font-size: 7em;
+   font-family: 'Abril Fatface', cursive;
+     margin-left: -30%;
+}
+.col-4  h1{
+  
+   font-size: 15em;
+   font-family: 'Abril Fatface', cursive;
+     z-index: 2;
+     margin-left: -30%;
+  
+}
+.col-4  p{ 
+   font-size: 2em;
+    font-style: italic;
+     margin-left: -30%;
+   
+}
+
+#centercol img{
+    
+   
+    margin-left:-20%;
+    margin-top: -20%;
+    
+    
+}
+
+#rightcol{
+   padding-left: 100px;
+}
+.socialMedia{
+    margin:120px 0 0 -120px;
+}
+.socialMedia a{
+   
+    padding: 5px;
+    color: black;
+}
+.socialMedia a i {
+    
+  font-size: 50px;
+    
+}
+.socialMedia a i:hover{
+    
+  
+    
+}
+
+.modules h2 a {
+    color: black;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    padding-left: 15%;
+    padding-top:200%;
+ 
+}
+#middlemodule{
+    padding: 25%;
+}
+#middlemodule h2{
+    padding-left: 15%;
+}
+
+
+/*media query for resposive web designe*/
+
+@media only screen and (max-width: 600px) {
+ .navbar{
+    
+    padding: 50px;
+    background-color: transparent;
+    
+}
+.navbar .navbar-nav {
+    
+margin-left: 30%;
+}
+.navbar .navbar-nav  .nav-item a{
+    color:dimgray;
+    padding: ;
+    background-color: ;
+    font-size: ;
+    font-weight: ;
+   
+    
+}.navbar .navbar-nav  .nav-item a:active{
+    color:#4169e1;
+    padding: ;
+    text-decoration: ;
+    background-color: ;
+    font-size: ;
+    font-weight:;
+    
+    
+}.navbar .navbar-nav  .nav-item a:hover{
+    color:dimgray;
+    padding: ;
+    text-decoration: none;
+    background-color: ;
+    font-size: ;
+    font-weight: ;
+    transition: 1000ms;
+   
+}
+.navbar button{
+    color:white;
+    padding: ;
+    border: none;
+    border-radius:  ;
+    background-color:#4169e1 ;
+    font-size:;
+    font-weight: ;
+   
+    
+}
+.col-4  {
+   padding:2%; 
+   
+}.col-4  h5{
+   margin-top: 0; 
+   font-size: ;
+   font-family: 'Abril Fatface', cursive;
+     margin-left:0;
+}
+.col-4  h1{
+  
+   font-size: 15em;
+   font-family: 'Abril Fatface', cursive;
+     z-index: ;
+     margin-left: 0;
+  
+}
+.col-4  p{ 
+   font-size: ;
+    font-style: italic;
+     margin-left: 0;
+   
+}
+
+#centercol img{
+    
+   
+    margin-left:0;
+    margin-top: 0;
+    
+    
+}
+
+#rightcol{
+   padding-left: 0;
+}
+
+.modules h2{
+    font-size: ;
+    font-weight: 600;
+    ba
+    
+}
+#middlemodule{
+    
+    float: right;
+    margin-left: 0;
+}
+
+
+
+/*index styling ends here*/
+    
+    
+/*    about styling starts here*/
+    
+    
+    .aboutleft{
+        background-color: red;
+    }
+    
+    
+/*    about styling ends here*/

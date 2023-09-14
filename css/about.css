@@ -1,0 +1,37 @@
+body{
+  font-family: 'Merriweather Sans', sans-serif; 
+}
+
+#aboutleft{
+   
+    background-color: #262f34;
+    color: white;
+    padding: 15% 5% 0% 5%;
+    text-align: center;
+
+}
+#aboutleft p{
+   margin: 10% 0 0 0;
+}
+#aboutleft a i{
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+}
+#aboutleft ul{
+    margin: 30% 0 0 0;
+}
+
+#aboutleft ul li{
+    
+    padding: 10%;
+    float: left;
+    list-style-type: none;
+    font-size: 1em;
+}
+#aboutleft ul li a{
+    
+    font-size: 1.1em;
+    color: white;
+    font-weight: bold;
+}
