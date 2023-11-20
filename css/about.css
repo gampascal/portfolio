@@ -2,36 +2,54 @@ body{
   font-family: 'Merriweather Sans', sans-serif; 
 }
 
-#aboutleft{
+.aboutleft{
    
     background-color: #262f34;
     color: white;
     padding: 15% 5% 0% 5%;
     text-align: center;
+    position:sticky;
+    top: 0px;
 
 }
-#aboutleft p{
+.aboutleft p{
    margin: 10% 0 0 0;
 }
-#aboutleft a i{
+.aboutleft a i{
     font-size: 20px;
     padding: 20px;
     color: white;
 }
-#aboutleft ul{
+.aboutleft ul{
     margin: 30% 0 0 0;
 }
 
-#aboutleft ul li{
+.aboutleft ul li{
     
     padding: 10%;
     float: left;
     list-style-type: none;
     font-size: 1em;
 }
-#aboutleft ul li a{
+.aboutleft ul li a{
     
     font-size: 1.1em;
     color: white;
     font-weight: bold;
+}
+.aboutright{
+    padding: 10% 2%;
+    font-size: 1.5em;
+}
+.top-right{
+    padding-bottom: 10%;
+}
+.aboutme{
+    margin: 15% 0 0 0;
+}
+.working{
+    padding: 10% 0;
+}
+.working h2{
+    margin-top: 40%;
 }
