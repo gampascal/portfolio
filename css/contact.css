@@ -1,0 +1,81 @@
+body{
+  font-family: 'Merriweather Sans', sans-serif; 
+}
+
+.aboutleft{
+   
+    background-color: #262f34;
+    color: white;
+    padding: 15% 5% 0% 5%;
+    text-align: center;
+    position:sticky;
+    top: 0px;
+
+}
+.aboutleft p{
+   margin: 10% 0 0 0;
+}
+.aboutleft a i{
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+}
+.aboutleft ul{
+    margin: 30% 0 0 0;
+}
+
+.aboutleft ul li{
+    
+    padding: 10%;
+    float: left;
+    list-style-type: none;
+    font-size: 1em;
+}
+.aboutleft ul li a{
+    
+    font-size: 1.1em;
+    color: white;
+    font-weight: bold;
+}
+.contactright{
+    padding: 10% 2%;
+    font-size: 1.5em;
+}
+.top-right{
+    padding-bottom: 10%;
+}
+ /* Add your styling here */
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+ 
+}
+
+input,
+textarea {
+  width: 100%;
+  margin-bottom: 10%;
+  padding: 8px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#statusMessage {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
