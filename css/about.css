@@ -53,3 +53,15 @@ body{
 .working h2{
     margin-top: 40%;
 }
+.fitoFit {
+  
+ 
+  transition: transform .5s; /* Animation */
+  width: 500px;
+  height: 600px;
+  margin: 0 auto;
+}
+.fitoFit:hover {
+    
+    transform: scalescale(1.5);
+}
