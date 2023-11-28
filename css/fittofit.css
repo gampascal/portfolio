@@ -1,0 +1,27 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.fitto-main{
+    padding: 20%;
+    background-size: cover;
+    background-position: center center ;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-image: url(../images/fitobg.jpg);
+    max-height: 700px;
+}
+.fitto-main h1{
+    
+    font-size: 6em;
+    color: white;
+    
+}
+.fitto-main p{
+    color: white;
+    font-size: 2em;
+}
+
+.overview{
+    padding: 5% 10% 5% 10%;
+}
